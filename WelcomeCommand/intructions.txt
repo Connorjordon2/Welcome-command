@@ -1,0 +1,12 @@
+Hello their, 
+Thank you for downloading my script
+
+Instructions
+optional make a script folder in you server resources
+drag and drop it into the folder or directory
+then do start or ensure if you are homehosting in your server.cfg
+
+
+then you either restart the server or refresh it in game and do start resource name
+
+dev discord: https://discord.gg/J9p2eyREvs
